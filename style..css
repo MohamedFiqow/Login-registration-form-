@@ -5,7 +5,7 @@ body {
   
   .signup-box {
     width: 360px;
-    height: 620px;
+    height: 720px;
     margin: auto;
     background-color: white;
     border-radius: 3px;
@@ -69,4 +69,8 @@ body {
   }
   .para-2 a {
     color: #49c1a2;
+  }
+  .logo {
+    width: 300px;
+    /* margin: bottom; */
   }
